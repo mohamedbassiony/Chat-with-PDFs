@@ -1,2 +1,2 @@
-# Chat-with-Gemini
+# Gemini LLM Applications
 
